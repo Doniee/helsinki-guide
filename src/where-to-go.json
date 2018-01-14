@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Suomenlinna",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Island", "Nature", "Culture", "History"]
+    },
+    {
+      "id": "2",
+      "title": "Regatta",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Cafe"]
+    },
+    {
+      "id": "3",
+      "title": "Helsinki city museum",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Museum", "History"]
+    },
+    {
+      "id": "4",
+      "title": "Nuuksio",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Nature"]
+    },
+    {
+      "id": "5",
+      "title": "Vallisaari",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Nature", "Island", "History"]
+    },
+    {
+      "id": "6",
+      "title": "Helsinki cathedral",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Architecture", "Church"]
+    },
+    {
+      "id": "7",
+      "title": "Porvoo",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Day trip", "History", "Culture"]
+    },
+    {
+      "id": "8",
+      "title": "Allas",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Swimming", "Sauna"]
+    },
+    {
+      "id": "9",
+      "title": "Hietalahti flea market",
+      "text":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod repellat exercitationem odio nobis aliquam minus vitae praesentium! Voluptatum, nobis ratione. Perferendis facere, ipsam eos fugit eligendi corporis distinctio soluta non.",
+      "tags": ["Flea market", "Shopping"]
+    }
+  ]
+}
